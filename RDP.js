@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
-//import  VncDisplay from 'react-vnc-display';
 import RTCMultiConnection from 'rtcmulticonnection';
 import config from '../config/config';
 import '../assets/styles/rdp.css'
